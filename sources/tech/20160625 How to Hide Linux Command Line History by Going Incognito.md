@@ -1,3 +1,4 @@
+xinglianfly翻译中
 How to Hide Linux Command Line History by Going Incognito
 ================================================================
 
